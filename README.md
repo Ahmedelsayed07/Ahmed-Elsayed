@@ -7,19 +7,20 @@
     <section>
         <h2>Professional Summary</h2>
         <p>Dynamic and customer-focused Retail Sales Consultant with over 5 years of experience in delivering exceptional sales results, providing outstanding customer service, and driving operational excellence in fast-paced retail environments. Proven ability to build strong customer relationships, meet and exceed sales targets, and collaborate with team members to achieve store goals. Adept at managing inventory, implementing visual merchandising strategies, and resolving customer concerns with professionalism and efficiency. Dedicated to enhancing the customer experience and contributing to the success of the organization through innovative solutions and a proactive approach.</p>
-    </section>
-    <!-- Professional Experience
-AT&T – Retail Sales Consultant
-Apr 2021 – Jul 2022 | Oklahoma, USA
-Assisted customers in selecting products and services tailored to their needs, achieving and exceeding sales objectives.
+    </header>
+    <section>
+    <h3>Professional Experience</h3>
+ <p>AT&T – Retail Sales Consultant <p>
+ <p>Apr 2021 – Jul 2022 | Oklahoma, USA <p>
+ <p>Assisted customers in selecting products and services tailored to their needs, achieving and exceeding sales objectives.
 Conducted monthly inventory audits to maintain accuracy and prevent loss.
 Resolved customer inquiries and complaints efficiently, enhancing customer satisfaction and loyalty.
-Promoted and demonstrated new products and services to increase sales opportunities.
-AT&T – Retail Store Assistant Manager
-Jul 2022 – Apr 2024 | Oklahoma, USA
-Supervised daily store operations, managed a high-performing sales team, and ensured exceptional customer service delivery.
+Promoted and demonstrated new products and services to increase sales opportunities.</p>
+ <h4>AT&T – Retail Store Assistant Manager<h4>
+<p>Jul 2022 – Apr 2024 | Oklahoma, USA<p>
+<p>Supervised daily store operations, managed a high-performing sales team, and ensured exceptional customer service delivery.
 Assisted with merchandising and new product launches to maintain a competitive and appealing store environment.
-Monitored sales performance and implemented strategies to meet and exceed objectives consistently.
+Monitored sales performance and implemented strategies to meet and exceed objectives consistently.</p>
 Paycom – New Client Setup Specialist
 May 2024 – Nov 2024 | Oklahoma, USA
 Guided new clients through successful payroll setup and system customization to meet specific needs.
