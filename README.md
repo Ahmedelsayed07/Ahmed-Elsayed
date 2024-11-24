@@ -11,32 +11,27 @@
     <!-- Professional Experience
 AT&T – Retail Sales Consultant
 Apr 2021 – Jul 2022 | Oklahoma, USA
-
 Assisted customers in selecting products and services tailored to their needs, achieving and exceeding sales objectives.
 Conducted monthly inventory audits to maintain accuracy and prevent loss.
 Resolved customer inquiries and complaints efficiently, enhancing customer satisfaction and loyalty.
 Promoted and demonstrated new products and services to increase sales opportunities.
 AT&T – Retail Store Assistant Manager
 Jul 2022 – Apr 2024 | Oklahoma, USA
-
 Supervised daily store operations, managed a high-performing sales team, and ensured exceptional customer service delivery.
 Assisted with merchandising and new product launches to maintain a competitive and appealing store environment.
 Monitored sales performance and implemented strategies to meet and exceed objectives consistently.
 Paycom – New Client Setup Specialist
 May 2024 – Nov 2024 | Oklahoma, USA
-
 Guided new clients through successful payroll setup and system customization to meet specific needs.
 Delivered exceptional client support, ensuring smooth adoption of the Paycom solution.
 Educated clients on system features, boosting user proficiency and satisfaction.
 Hamad Bin Jarwan Advocates and Legal Consultants – Executive Office Manager
 Aug 2018 – Dec 2020 | Abu Dhabi, UAE
-
 Oversaw daily office operations, managed staff schedules, and coordinated administrative activities.
 Conducted performance evaluations and provided support to enhance team productivity.
 Handled sensitive legal documentation and correspondence efficiently.
 Abeer Aldahmani Advocates – Bilingual Executive Legal Assistant
 Jul 2016 – Aug 2018 | Abu Dhabi, UAE
-
 Managed legal correspondence and documentation in Arabic and English with attention to detail.
 Trained support staff on office procedures and legal systems.
 Ensured effective communication and coordination within the team.
