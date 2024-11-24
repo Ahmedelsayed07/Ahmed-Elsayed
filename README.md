@@ -1,3 +1,5 @@
+git clone https://github.com/yourusername/yourusername.github.io
+cd yourusername.github.io
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,3 +18,21 @@
     <!-- Add more sections for skills, experience, education, etc. -->
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+section {
+    padding: 1rem;
+}
+git add .
+git commit -m "Initial resume website"
+git push origin main
